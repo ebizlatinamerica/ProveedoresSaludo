@@ -28,25 +28,24 @@ body {
 }
 
 .tree {
-	width: calc(1000px / 1.1);
-	height: calc(550px / 1.1);
+	width: calc(800px / 1.1);
+	height: calc(500px / 1.1);
 	position: fixed;
 	bottom: 10px;
-	left: 38%;
-	margin-left: calc((620px / 1.1) / -2);
+	left: 50%;
+	margin-left: calc((740px / 1.1) / -2);
 	background: url(../img/proveedores.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: contain;
-    padding: 0 10px;
 	perspective: 600px;
     border: 7px solid #fff;
 }
 
 .tree__xmas-txt {
 	position: absolute;
-	bottom: 510px;
-	left: 300px;
+	bottom: 490px;
+	left: 200px;
 	display: block;
 	width: 300px;
 	margin: 0 auto;
